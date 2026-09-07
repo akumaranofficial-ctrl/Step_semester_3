@@ -1,3 +1,5 @@
+package string.assignment_problems;
+
 import java.util.Scanner;
 
 public class type {
