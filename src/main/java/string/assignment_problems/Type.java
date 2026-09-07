@@ -1,8 +1,7 @@
 package string.assignment_problems;
-
 import java.util.Scanner;
 
-public class type {
+public class Type {
 
     static void checkTypingAccuracy(String original, String typed) {
 
